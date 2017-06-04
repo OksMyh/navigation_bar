@@ -62,6 +62,8 @@ iframe {
 	position: absolute;
 	top: 80px;
 	left: 180px;
+	border: 7px solid #000;
+	box-shadow: 0 0 30px #fff;
 }
 p {
 	position: relative;
